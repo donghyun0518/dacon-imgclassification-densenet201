@@ -5,7 +5,7 @@
 - **주제** : 아이콘 이미지 분류 AI 알고리즘 개발
 - **기간** : 2025.03.04 ~ 2025.04.30 (약 2달간)
 - **팀 구성** : 1인
-- **성과** : Private 18th (상위 4%)
+- **성과** : Private 18th (상위 4%) [Awards 3rd]
 - [**데이콘 결과 제출 게시글**](https://dacon.io/competitions/official/236459/codeshare/12339?page=1&dtype=recent)
 
 ## ⚙️ 주요 수행 과정
