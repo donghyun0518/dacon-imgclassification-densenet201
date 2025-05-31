@@ -1,5 +1,6 @@
 <h1 style="text-align: center;">🔎 이미지 분류 해커톤: 데이터 속 아이콘의 종류를 맞혀라!</h1>
 <img src="https://github.com/donghyun0518/dacon-imgclassification-densenet201/blob/main/image_classification_certificate.png" alt="Project Cover" style="width: 1000px; border: 1px solid #c9d1d9; border-radius: 8px;">
+
 ## 🔍 프로젝트 개요
 - **목적** : 아이콘 이미지의 픽셀 데이터를 기반으로 아이콘의 종류를 분류하는 AI 알고리즘 개발
 - **주제** : 아이콘 이미지 분류 AI 알고리즘 개발
